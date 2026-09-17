@@ -87,11 +87,11 @@
 | | |
 |---|---|
 | 🚗 **[RAW – Revive Auto Works](https://raw-revive-auto-works.vercel.app)** | Full-stack car platform + AI assistant — `Next.js` `MongoDB` `Groq AI` |
-| 💎 **ETERNA Jewelry** | Luxury brand site — `GSAP` `Framer Motion` `Canvas` |
+| 💎 **[ETERNA Jewelry](https://eterna-six-gilt.vercel.app)** | Luxury brand site — `GSAP` `Framer Motion` `Canvas` |
 | 🛣️ **RoadScan Lebanon** | AI road damage detection ~63.9% mAP50 — `YOLOv8` `Three.js` `Flask` |
 | 🔐 **HoneyTrap** | Wi-Fi honeypot & network analysis — `Python` `Scapy` `Wireshark` |
 | 📱 **Go Green App** *(Internship)* | Full Flutter mobile app — `Flutter` `Dart` |
-| 🍔 **Yummy House** | Street food landing page — `HTML` `CSS` `JS` `Animation` |
+| 🍔 **[My Story](https://my-story-by-ms.vercel.app/)** | Street food landing page — `HTML` `CSS` `JS` `Animation` |
 
 ---
 
