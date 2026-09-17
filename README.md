@@ -119,13 +119,6 @@ Fully funded · GPA 4/5 · Azure labs · Web Apps · Networks · Cloud · Python
 
 ---
 
-### 📊 GitHub Stats
-
-![Hadi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hadozer&show_icons=true&hide_border=true&theme=dark&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hadozer&layout=compact&hide_border=true&theme=dark)
-
----
 
 ### 📬 Connect
 
