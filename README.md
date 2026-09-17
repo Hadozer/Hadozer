@@ -62,7 +62,7 @@
 
 **Computer Science Student · Full-Stack Developer · Mobile Developer · Cybersecurity Enthusiast**
 
-> Final-year CS student at **MUBS** (Modern University for Business and Science), Lebanon.
+> Fresh Graduated CS student at **MUBS** (Modern University for Business and Science), Lebanon.
 > Freelancing under **[@hadi.devs](https://instagram.com/hadi.devs)** · Flutter Developer intern at **Go Green**.
 > *Code that ships — not just code that compiles.*
 
